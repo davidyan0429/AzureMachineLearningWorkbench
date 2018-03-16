@@ -19,7 +19,7 @@ This Repo is going to show all things related to Azure Machine Learning Service
 > 8. [Use Visual Studio Code Tools for AI](https://docs.microsoft.com/en-us/azure/machine-learning/preview/quickstart-visual-studio-code-tools)
 
 ## AI Hackfest Scope ##
-![Azure Machine Learning Suite](./img/Azure Machine Learning Suite.jpg)
+![Azure Machine Learning Suite](./img/Azure_Machine_Learning_Suite.jpg)
 
 Our AI POC Hackfest would go through the full process of AI Model building and deploying, with the help of MS AI Technology, including:
 * Configure Experimentation (AML Workbench and Python installation and configuration are not included, please do it before the hackfest)
